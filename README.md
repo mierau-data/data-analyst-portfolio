@@ -26,7 +26,7 @@
 | 4 | [Метрики сервиса доставки еды](./04_food_delivery_metrics/) | SQL, DataLens | Оформлен |
 | 5 | [Исследование рынка стартапов](./05_startups_research/) | Python, Pandas | Оформлен |
 | 6 | [Секреты Темнолесья — SQL-анализ продаж онлайн-игры](./06_darkwood_secrets_sql/) | SQL, DBeaver | Оформлен |
-| 7 | Секреты Темнолесья — предобработка данных | Python, Pandas | В очереди |
+| 7 | [Рынок видеоигр — предобработка данных](./07_video_games_preprocessing/) | Python, Pandas | Оформлен |
 
 ### В работе
 
