@@ -27,8 +27,8 @@
 | 5 | [Исследование рынка стартапов](./05_startups_research/) | Python, Pandas | Оформлен |
 | 6 | [Секреты Темнолесья — SQL-анализ продаж онлайн-игры](./06_darkwood_secrets_sql/) | SQL, DBeaver | Оформлен |
 | 7 | [Рынок видеоигр — предобработка данных](./07_video_games_preprocessing/) | Python, Pandas | Оформлен |
-| 8 | [Разработка A/B-тестирования и анализ результатов](./08_ab_test_analysis/) | Python, Pandas, statsmodels | Оформлен |
-| 9 | [Проверка гипотез в Python и результаты A/B-теста](./09_hypothesis_ab_testing/) | Python, Pandas, SciPy, statsmodels | Оформлен |
+| 8 | [Развлекательное приложение — A/B-тест алгоритма рекомендаций](./08_ab_test_analysis/) | Python, Pandas, statsmodels | Оформлен |
+| 9 | [Яндекс Книги — проверка гипотез и A/B-тест интерфейса магазина](./09_hypothesis_ab_testing/) | Python, Pandas, SciPy, statsmodels | Оформлен |
 
 ### В работе
 
